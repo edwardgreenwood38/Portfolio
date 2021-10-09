@@ -1,1 +1,10 @@
 /* your styles go here */
+:root {
+    --teal: #4fbfa8;
+}
+
+.titleHeaders {
+    color: var(--teal)
+}
+
+.
